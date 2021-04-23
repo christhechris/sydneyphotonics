@@ -4,7 +4,7 @@ email: contact@sydneyphotonics.com
 url: sydneyphotonics.com
 description: "Coming soon — your local manufacturer of specialty optical fibre devices and bespoke optical systems."
 keywords: "sydney, photonics, optical fibre, optical systems"
-skills: ""
+skills: "Coming soon — your local manufacturer of specialty optical fibre devices and bespoke optical systems."
 meta_author: Betters Chris
 
 # Google webmaster tools
@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: FFFFFF #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Sydney Photonics Pty Ltd
-  location: Sydney, Australia
+  location: Location
   social: Around the Web
   credits: Credits
 
